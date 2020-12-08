@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aviasales/static/css/main.5fc6f886.chunk.css",
+    "main.js": "/aviasales/static/js/main.97b24808.chunk.js",
+    "main.js.map": "/aviasales/static/js/main.97b24808.chunk.js.map",
+    "runtime-main.js": "/aviasales/static/js/runtime-main.1c2f95e0.js",
+    "runtime-main.js.map": "/aviasales/static/js/runtime-main.1c2f95e0.js.map",
+    "static/js/2.15a50d21.chunk.js": "/aviasales/static/js/2.15a50d21.chunk.js",
+    "static/js/2.15a50d21.chunk.js.map": "/aviasales/static/js/2.15a50d21.chunk.js.map",
+    "index.html": "/aviasales/index.html",
+    "static/css/main.5fc6f886.chunk.css.map": "/aviasales/static/css/main.5fc6f886.chunk.css.map",
+    "static/js/2.15a50d21.chunk.js.LICENSE.txt": "/aviasales/static/js/2.15a50d21.chunk.js.LICENSE.txt",
+    "static/media/logo.371cc60f.png": "/aviasales/static/media/logo.371cc60f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2f95e0.js",
+    "static/js/2.15a50d21.chunk.js",
+    "static/css/main.5fc6f886.chunk.css",
+    "static/js/main.97b24808.chunk.js"
+  ]
+}
