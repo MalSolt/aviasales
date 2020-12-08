@@ -1,0 +1,27 @@
+.buttons {
+  display: flex;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.buttons button {
+  font-weight: 600;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #4a4a4a;
+  background: #fff;
+  border: 1px solid #dfe5ec;
+  width: 250px;
+  height: 50px;
+}
+
+.buttons button.selectedButton {
+  background: #2196f3;
+  color: #ffffff;
+  border: none;
+}
+

@@ -1,0 +1,46 @@
+.flight {
+  max-width: 500px;
+  background-color: #fff;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px 50px 5px 20px;
+}
+
+.flight header {
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.price {
+  font-weight: 600;
+  font-size: 24px;
+  color: #2196f3;
+}
+
+.description {
+  max-width: 450px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.item h6 {
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #a0b0b9;
+  margin-bottom: 4px;
+}
+
+.item h5 {
+  font-weight: 600;
+  font-size: 14px;
+  color: #4a4a4a;
+}
